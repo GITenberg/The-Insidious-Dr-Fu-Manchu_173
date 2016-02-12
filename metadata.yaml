@@ -1,0 +1,34 @@
+_repo: The-Insidious-Dr-Fu-Manchu_173
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: "The Mystery of Dr. Fu Manchu (1913) is the first novel in the Dr. Fu\
+  \ Manchu (sometimes \"Fu-Manchu\") series by Sax Rohmer. It collates various short\
+  \ stories published the preceding year. The novel was also published in US under\
+  \ the title The Insidious Dr. Fu Manchu.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '1994-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '173'
+  wikidata: Q5979985
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fu Manchu, Doctor (Fictitious character) -- Fiction'
+- !lcc 'PR'
+title: The Insidious Dr. Fu Manchu
+url: http://www.gutenberg.org/ebooks/173
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Mystery_of_Dr._Fu-Manchu
+- https://es.wikipedia.org/wiki/Los_Misterios_del_Dr._Fu_Manch%C3%BA
