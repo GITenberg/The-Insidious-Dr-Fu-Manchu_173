@@ -1,5 +1,5 @@
 _repo: The-Insidious-Dr-Fu-Manchu_173
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,6 +33,7 @@ subjects:
 - !lcsh 'Detective and mystery stories'
 - !lcsh 'Fu Manchu, Doctor (Fictitious character) -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: The Insidious Dr. Fu Manchu
 url: http://www.gutenberg.org/ebooks/173
 wikipedia:
